@@ -1,6 +1,6 @@
 body {
     background-color: #FAF7FF;
-    color: #241638;
+    color: #4C1D95;
     font-family: Arial;
 }
 
@@ -61,4 +61,10 @@ nav a {
     padding: 15px;
     margin: 10px;
     border-radius: 8px;
+}
+
+.numeros {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 80px;
 }
