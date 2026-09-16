@@ -67,4 +67,41 @@ nav a {
     display: flex;
     justify-content: space-around;
     margin-top: 80px;
+    padding: 30px;
+    background-color: #EDE9FE;
+    border-radius: 15px;
+}
+
+.projetos-recentes {
+    margin: 80px;
+}
+
+.projetos-recentes h1 {
+    color: #4C1D95;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+.itens {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.caixas {
+    width: 35%;
+    padding: 25px;
+    background-color: #EDE9FE;
+    border: 2px solid #A78BFA;
+    border-radius: 15px;
+}
+
+.caixa p{
+    color: #6D28D9;
+}
+
+.baixo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
