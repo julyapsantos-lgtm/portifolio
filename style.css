@@ -105,3 +105,53 @@ nav a {
     justify-content: space-between;
     align-items: center;
 }
+
+.habilidades {
+    margin: 80px;
+}
+
+.habilidades h1 {
+    color: #4C1D95;
+    font-size: 30px;
+}
+
+.text {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-top: 30px;
+    
+}
+
+.text p {
+    color: #4C1D95;
+    padding: 10px 15px;
+    border: 2px solid #6D28D9;
+    border-radius: 15px;
+}
+
+.text {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    margin: 80px;
+    padding: 20px;
+    border-top: 2px solid #A78BFA;
+}
+
+footer p {
+    color: #4C1D95;
+}
+
+footer a {
+    color: #6D28D9;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+
